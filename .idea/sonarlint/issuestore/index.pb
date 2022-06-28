@@ -195,8 +195,6 @@ c
 3app/Http/Controllers/Admin/SiteResumeController.php,e\5\e54899bd42b7a524087746951b79684752ecfde9
 T
 $public/js/admin/Site/Resume/index.js,7\1\715fb4a2565458c6a1de84864c60f31825a25ff9
-K
-app/Helpers/BaseService.php,a\5\a59838c4e9cf30a80973ef4cb656921ddbc211e9
 i
 9resources/views/admin/elements/Site/Resume/form.blade.php,a\1\a1d78d081f14c5af97edee1cf9f5a83f44a7b226
 >
