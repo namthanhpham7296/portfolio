@@ -13,8 +13,6 @@ v
 Fdatabase/migrations/2021_03_12_062643_create_user_logon_logs_table.php,7\7\777b4378a23d89844234bb2625baf263a5ac8fc3
 r
 Bdatabase/migrations/2022_06_13_100631_create_permissions_table.php,9\f\9fc43fc5f997ece4dd05873cfa46d9c066b71c89
-o
-?database/migrations/2021_01_20_155719_create_settings_table.php,8\1\81aea21a0a18e4a0a9a51a3915e33d098ca2a20c
 w
 Gdatabase/migrations/2022_06_13_104819_create_role_permissions_table.php,b\8\b87a0dc953a00a1fb6e274e7e93fcdfe19e5515c
 p
