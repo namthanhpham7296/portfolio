@@ -1,0 +1,71 @@
+.room-not-used{
+    color: #484846 !important;
+    background-color: #BFC2BF !important;
+}
+
+.room-ready{
+    color: #fff !important;
+    background-color: #1BC120 !important;
+}
+
+.room-leased{
+    color: #fff !important;
+    background-color: #0E60B6 !important;
+}
+
+.room-clean-up{
+    color: #fff !important;
+    background-color: #F9C720 !important;
+}
+
+.icon-active {
+    color: #fff !important;
+}
+
+.font-16{
+    font-size: 16px !important;
+}
+.mgr-0{
+    margin-right: 0 !important;
+}
+
+.mgbt-10{
+    margin-bottom: 10px !important;
+}
+
+.pdr-5{
+    padding-right: 5px;
+}
+.pdl-0{
+    padding-left: 0;
+}
+
+.room-action{
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: -20px;
+}
+
+.btn-room-action{
+    border: 1px solid white !important;
+}
+
+.room-toggle-menu{
+    margin-right: -136px;
+    margin-top: -30px;
+
+}
+
+.room-toggle-menu > button{
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+@media only screen and (max-width: 1366px) {
+    .room-toggle-menu{
+        margin-right: -80px;
+        margin-top: -30px;
+
+    }
+}

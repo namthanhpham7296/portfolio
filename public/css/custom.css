@@ -1,0 +1,54 @@
+.combobox-search > button{
+    font-size: 1rem;
+    color: #3F4254 !important;
+    background-color: #ffffff !important;
+    background-clip: padding-box;
+    border: 1px solid #E4E6EF !important;
+}
+
+
+.modal-footer {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.hide{
+    display: none !important;
+}
+
+.fa-w-16{
+    width: 16px !important;
+}
+
+.input-group-addon {
+    padding: 11px 12px;
+}
+
+.border-smooth{
+    border-radius: 4px !important;
+}
+
+.btn-act-lg{
+    width: 140px;
+}
+
+.btn-act-lg.btn-default{
+    border: 1px solid #ddd;
+}
+
+.hide{
+    display: none !important;
+}
+
+.required_label:after {
+    content: "*";
+    color: red;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+

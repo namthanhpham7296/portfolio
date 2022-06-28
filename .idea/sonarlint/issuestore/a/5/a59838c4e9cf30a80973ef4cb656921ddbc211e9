@@ -1,0 +1,62 @@
+
+h	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(¯æù­ùÿÿÿÿ
+h	php:S1301è"MReplace this "switch" statement with "if" statements to increase readability.(‹·ïÇÿÿÿÿÿ
+W	php:S1142¯"<This method has 4 returns, which is more than the 3 allowed.(Ã³ü†ûÿÿÿÿ
+W	php:S1142÷"<This method has 4 returns, which is more than the 3 allowed.(áÄ°‡ÿÿÿÿÿ
+E	php:S6035="0Replace this alternation with a character class.(„“ğ²
+F	php:S6035Ô"0Replace this alternation with a character class.(çéĞò
+K	php:S6035Õ"0Replace this alternation with a character class.(³–«”ıÿÿÿÿ
+F	php:S6035Ö"0Replace this alternation with a character class.(Îßà
+F	php:S6035×"0Replace this alternation with a character class.(îÏÌÅ
+K	php:S6035Ø"0Replace this alternation with a character class.(Ã÷§Íûÿÿÿÿ
+F	php:S6035Ù"0Replace this alternation with a character class.(îšéı
+F	php:S6035Û"0Replace this alternation with a character class.(ÅŞÁ¾
+K	php:S6035Ü"0Replace this alternation with a character class.(Ó‘à£şÿÿÿÿ
+K	php:S6035İ"0Replace this alternation with a character class.(“¼¥­şÿÿÿÿ
+F	php:S6035Ş"0Replace this alternation with a character class.(Œ­æè
+F	php:S6035ß"0Replace this alternation with a character class.(´À…á
+K	php:S6035à"0Replace this alternation with a character class.(‚úŸ…ùÿÿÿÿ
+D	php:S1656Î	".Remove or correct this useless self-assignment(úœì´
+j	php:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Â¬¹¦
+o	php:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(áÄ°‡ÿÿÿÿÿ
+o	php:S3776Â
+"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÆÆÁúÿÿÿÿ
+q	php:S3923Ø"[Remove this conditional structure or edit its code blocks so that they're not all the same.(–€¹”
+q	php:S3923å"[Remove this conditional structure or edit its code blocks so that they're not all the same.(–€¹”
+w	php:S1488X"]Immediately return this expression instead of assigning it to the temporary variable "$diff".(ÖŠÇ÷øÿÿÿÿ
+r	php:S1488b"]Immediately return this expression instead of assigning it to the temporary variable "$code".(şÚ©³
+v	php:S1488˜"`Immediately return this expression instead of assigning it to the temporary variable "$setting".(·ô×à
+	php:S1488"dImmediately return this expression instead of assigning it to the temporary variable "$domain_name".(Ş‹‡ıÿÿÿÿ
+ƒ	php:S1488¾"hImmediately return this expression instead of assigning it to the temporary variable "$currentFunction".(µç€şúÿÿÿÿ
+~	php:S1488æ"cImmediately return this expression instead of assigning it to the temporary variable "$company_id".(ü¦»ºıÿÿÿÿ
+z	php:S1488í"_Immediately return this expression instead of assigning it to the temporary variable "$object".(Š‡ò‚şÿÿÿÿ
+|	php:S1488Ä"aImmediately return this expression instead of assigning it to the temporary variable "$listData".(ìµİˆüÿÿÿÿ
+s	php:S1488±"]Immediately return this expression instead of assigning it to the temporary variable "$temp".(ÒßÔğ
+D	php:S1481")Remove this unused "$key" local variable.(Š›‰·ûÿÿÿÿ
+D	php:S1481÷")Remove this unused "$key" local variable.(•èŠûÿÿÿÿ
+D	php:S1481ƒ")Remove this unused "$key" local variable.(•èŠûÿÿÿÿ
+?	php:S1481æ")Remove this unused "$key" local variable.(¤«‘ğ
+D	php:S1481¹")Remove this unused "$key" local variable.(Š›‰·ûÿÿÿÿ
+D	php:S1481
+")Remove this unused "$key" local variable.(ñ‡üµşÿÿÿÿ
+?	php:S1481î	")Remove this unused "$key" local variable.(¶ùø
+?	php:S1481§")Remove this unused "$key" local variable.(â¸±Ï
+?	php:S1481w"*Remove this unused "$auth" local variable.(•©Ìå
+D	php:S1481Ó")Remove this unused "$key" local variable.(Š›‰·ûÿÿÿÿ
+>	php:S1481“")Remove this unused "$key" local variable.(Æ’»e
+?	php:S1481Ÿ")Remove this unused "$key" local variable.(ıŒß
+N	php:S1172v"4Remove the unused function parameter "$featureCode".(³Á°›øÿÿÿÿ
+K	php:S1172ò"0Remove the unused function parameter "$request".(»‚…¢şÿÿÿÿ
+	php:S1448""gClass "BaseService" has 78 methods, which is greater than 20 authorized. Split it into smaller classes.(âŒéÅşÿÿÿÿ
+Q	php:S1854Œ
+";Remove this useless assignment to local variable '$action'.(¾‘£­
+3php:S125x"Remove this commented out code.( Ö¸
+4php:S125»"Remove this commented out code.(Ä€ò™
+9php:S125û"Remove this commented out code.(£Æåòıÿÿÿÿ
+9php:S125ó"Remove this commented out code.(ì¬Üºûÿÿÿÿ
+Jphp:S121ø"0Add curly braces around the nested statement(s).(Æ©Ôßÿÿÿÿÿ
+[	php:S4830±"@Enable server certificate validation on this SSL/TLS connection.(–¾¹ıÿÿÿÿ
+Qphp:S131"7Add a "case default" clause to this "switch" statement.(¯æù­ùÿÿÿÿ
+Lphp:S131"7Add a "case default" clause to this "switch" statement.(ÈÏüµ
+Qphp:S131è"7Add a "case default" clause to this "switch" statement.(‹·ïÇÿÿÿÿÿ
+Qphp:S131ª"7Add a "case default" clause to this "switch" statement.(¥êãÓúÿÿÿÿ

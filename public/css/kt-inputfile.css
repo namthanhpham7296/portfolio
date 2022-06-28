@@ -1,0 +1,59 @@
+.image-input {
+    position: relative;
+    display: inline-block;
+    border-radius: 0.42rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image-input .image-input-wrapper {
+    width: 120px;
+    height: 120px;
+    border-radius: 0.42rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image-input.image-input-outline .image-input-wrapper {
+    border: 3px solid #ffffff;
+    -webkit-box-shadow: 0 0.5rem 1.5rem 0.5rem rgb(0 0 0 / 8%);
+    box-shadow: 0 0.5rem 1.5rem 0.5rem rgb(0 0 0 / 8%);
+}
+.btn.btn-icon.btn-circle {
+    border-radius: 50%;
+}
+.btn.btn-icon.btn-xs {
+    height: 24px;
+    width: 24px;
+}
+.image-input [data-action=change] {
+    cursor: pointer;
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}
+.image-input [data-action=cancel] {
+    display: none;
+}
+.image-input [data-action=cancel], .image-input [data-action=remove] {
+    position: absolute;
+    right: -10px;
+    bottom: -5px;
+}
+.btn.btn-white.btn-shadow {
+    -webkit-box-shadow: 0px 9px 16px 0px rgb(24 28 50 / 25%) !important;
+    box-shadow: 0px 9px 16px 0px rgb(24 28 50 / 25%) !important;
+}
+.btn.btn-white.btn-shadow:hover:not(.btn-text):not(:disabled):not(.disabled), .btn.btn-white.btn-shadow:focus:not(.btn-text), .btn.btn-white.btn-shadow.focus:not(.btn-text) {
+    -webkit-box-shadow: 0px 9px 16px 0px rgb(24 28 50 / 30%) !important;
+    box-shadow: 0px 9px 16px 0px rgb(24 28 50 / 30%) !important;
+}
+.icon-default > i{
+    padding-top: 5px;
+    opacity: 0.6;
+}
+.icon-default:hover{
+    background-color: #F3F6F9;
+    border-color: #F3F6F9;
+}
+.icon-default:hover > i{
+    opacity: 1;
+}

@@ -1,0 +1,45 @@
+
+^javascript:S1481"6Remove the declaration of the unused 'cover' variable.(½‚ïøÿÿÿÿ8»…ƒ¶™0
+[javascript:S1854"3Remove this useless assignment to variable "cover".(½‚ïøÿÿÿÿ8¼…ƒ¶™0
+yjavascript:S4144"VUpdate this function so that its implementation is not identical to the one on line 4.(®ÏÆ8¼…ƒ¶™0
+^javascript:S1481"6Remove the declaration of the unused 'cover' variable.(½‚ïøÿÿÿÿ8¼…ƒ¶™0
+[javascript:S1854"3Remove this useless assignment to variable "cover".(½‚ïøÿÿÿÿ8½…ƒ¶™0
+>javascript:S1116."Unnecessary semicolon.(ôŸìúÿÿÿÿ8½…ƒ¶™0
+‚javascript:S1172@"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ı ô 8¾…ƒ¶™0
+€javascript:S1172C"]Remove the unused function parameter "xhr" or rename it to "_xhr" to make intention explicit.(ß›ìö8¾…ƒ¶™0
+javascript:S1172C"kRemove the unused function parameter "textStatus" or rename it to "_textStatus" to make intention explicit.(ß›ìö8¾…ƒ¶™0
+†javascript:S2703U"^Add the "let", "const" or "var" keyword to this declaration of "dataJson" to make it explicit.(”ö”âıÿÿÿÿ8¾…ƒ¶™0
+Hjavascript:S878U"!Unexpected use of comma operator.(”ö”âıÿÿÿÿ8¿…ƒ¶™0
+…javascript:S2703V"]Add the "let", "const" or "var" keyword to this declaration of "dataObj" to make it explicit.(µã›ûÿÿÿÿ8¿…ƒ¶™0
+Jjavascript:S1125W"'Remove the unnecessary boolean literal.(ÖîÔ÷8¿…ƒ¶™0
+javascript:S1172c"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(õ…‡³ùÿÿÿÿ8À…ƒ¶™0
+ˆjavascript:S1488f"`Immediately return this expression instead of assigning it to the temporary variable "dataJson".(°²€İşÿÿÿÿ8À…ƒ¶™0
+‚javascript:S1172r"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ı ô 8À…ƒ¶™0
+€javascript:S1172u"]Remove the unused function parameter "xhr" or rename it to "_xhr" to make intention explicit.(ß›ìö8À…ƒ¶™0
+javascript:S1172u"kRemove the unused function parameter "textStatus" or rename it to "_textStatus" to make intention explicit.(ß›ìö8Á…ƒ¶™0
+…javascript:S1172ß"aRemove the unused function parameter "index" or rename it to "_index" to make intention explicit.(Àê¨Ø8Á…ƒ¶™0
+Bjavascript:S125¦"Remove this commented out code.(š…¦Ê8Á…ƒ¶™0
+Gjavascript:S125­"Remove this commented out code.(ù—Ó¤ıÿÿÿÿ8Â…ƒ¶™0
+javascript:S1172¿"]Remove the unused function parameter "err" or rename it to "_err" to make intention explicit.(ÔÑ¹é8Â…ƒ¶™0
+Gjavascript:S125Î"Remove this commented out code.(¶Š­›øÿÿÿÿ8Â…ƒ¶™0
+}javascript:S1172Ú"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ÓÑ²î8Ã…ƒ¶™0
+‹javascript:S1172Ú"gRemove the unused function parameter "settings" or rename it to "_settings" to make intention explicit.(ÓÑ²î8Ã…ƒ¶™0
+ƒjavascript:S1172Ú"_Remove the unused function parameter "data" or rename it to "_data" to make intention explicit.(ÓÑ²î8Ã…ƒ¶™0
+}javascript:S1172ß"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ØÑ¨Ø8Ä…ƒ¶™0
+‹javascript:S1172ß"gRemove the unused function parameter "settings" or rename it to "_settings" to make intention explicit.(ØÑ¨Ø8Ä…ƒ¶™0
+javascript:S1172ß"kRemove the unused function parameter "processing" or rename it to "_processing" to make intention explicit.(ØÑ¨Ø8Ä…ƒ¶™0
+javascript:S1172ó"]Remove the unused function parameter "str" or rename it to "_str" to make intention explicit.(Ã¹Ô¼8Å…ƒ¶™0
+Bjavascript:S125õ"Remove this commented out code.(”®µŞ8Å…ƒ¶™0
+…javascript:S1488‰"\Immediately return this expression instead of assigning it to the temporary variable "html".(òğçŞıÿÿÿÿ8Å…ƒ¶™0
+€javascript:S1488«"\Immediately return this expression instead of assigning it to the temporary variable "data".(Ö­ºñ8Å…ƒ¶™0
+\javascript:S1854ó"3Remove this useless assignment to variable "theme".(üÒ¸«ùÿÿÿÿ8Æ…ƒ¶™0
+‡javascript:S1488õ"^Immediately return this expression instead of assigning it to the temporary variable "editor".(¸“Ç¹şÿÿÿÿ8Æ…ƒ¶™0
+–javascript:S1172¼"mRemove the unused function parameter "data_detail" or rename it to "_data_detail" to make intention explicit.(Û„Æ¦ÿÿÿÿÿ8Æ…ƒ¶™0
+?javascript:S1116İ"Unnecessary semicolon.(ôŸìúÿÿÿÿ8Ç…ƒ¶™0
+‚javascript:S1172à"YRemove the unused function parameter "i" or rename it to "_i" to make intention explicit.(¾±º®şÿÿÿÿ8Ç…ƒ¶™0
+‚javascript:S1172à"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(¾±º®şÿÿÿÿ8Ç…ƒ¶™0
+Djavascript:S2814ô"'input' is already defined.(µıĞĞıÿÿÿÿ8Ç…ƒ¶™0
+Sjavascript:S5869ô"*Remove duplicates in this character class.(µıĞĞıÿÿÿÿ8È…ƒ¶™0
+?javascript:S1116û"Unnecessary semicolon.(ôŸìúÿÿÿÿ8È…ƒ¶™0
+Tjavascript:S6035¥"0Replace this alternation with a character class.(ÚÊº´8È…ƒ¶™0
+ujavascript:S4138õ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(İ”¿ÿÿÿÿÿ8ÈÛƒ¶™0

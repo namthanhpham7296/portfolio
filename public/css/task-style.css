@@ -1,0 +1,12 @@
+.task-processing{
+    color: blue !important;
+}
+
+.task-resolved{
+    color: #06B845 !important;
+}
+
+.task-canceled{
+    color: red !important;
+    font-weight: bold;
+}

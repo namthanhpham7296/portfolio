@@ -1,0 +1,23 @@
+
+R	php:S1142›"<This method has 4 returns, which is more than the 3 allowed.(†í›¤
+m	php:S1192ú"RDefine a constant instead of duplicating this literal "Company not found" 4 times.(ÅÁ”øÿÿÿÿ
+r	php:S1192ì"WDefine a constant instead of duplicating this literal "Save data successfully" 4 times.(Üï‰Ìüÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "/uploads/" 4 times.(‹î‡·
+g	php:S1192×"QDefine a constant instead of duplicating this literal "Save data failed" 6 times.(¢Ï»¸
+o	php:S1192Æ"YDefine a constant instead of duplicating this literal "Save change successfully" 3 times.(ì„¬Ù
+J	php:S1481«"4Remove this unused "$transport_mail" local variable.(Œ’×™
+K	php:S1481¬"5Remove this unused "$encryption_mail" local variable.(Ç°¦ç
+F	php:S1481­"1Remove this unused "$driver_mail" local variable.(÷ÀÖp
+J	php:S1481®"4Remove this unused "$from_name_mail" local variable.(Æèí£
+L	php:S1481¯"7Remove this unused "$from_address_mail" local variable.(ƒëÛ+
+K	php:S1481ž"0Remove this unused "$authUserId" local variable.(¡ìƒŸýÿÿÿÿ
+G	php:S1481m"-Remove this unused "$subject" local variable.(ùœ²Üüÿÿÿÿ
+L	php:S1481n"2Remove this unused "$phone_number" local variable.(˜Êôìùÿÿÿÿ
+@	php:S1481o"+Remove this unused "$email" local variable.(‡úÅ‹
+G	php:S1481p"-Remove this unused "$address" local variable.(•´‹øÿÿÿÿ
+2	php:S1116¼"Remove this empty statement.(Íž»
+2	php:S1116Â"Remove this empty statement.(«ûÌý
+7	php:S1116È"Remove this empty statement.(Ü¥óæüÿÿÿÿ
+L	php:S1854l"7Remove this useless assignment to local variable '$id'.(ÆæÆÝ
+Pphp:S131M"7Add a "case default" clause to this "switch" statement.(£ñþ‡ýÿÿÿÿ
+Qphp:S131ü"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ

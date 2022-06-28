@@ -1,0 +1,16 @@
+
+yjavascript:S1172"]Remove the unused function parameter "row" or rename it to "_row" to make intention explicit.(·ªÍî
+{javascript:S1172"_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(·ªÍî
+yjavascript:S1172"]Remove the unused function parameter "set" or rename it to "_set" to make intention explicit.(·ªÍî
+{javascript:S1172"_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(·ªÍî
+yjavascript:S1172("]Remove the unused function parameter "row" or rename it to "_row" to make intention explicit.(·ªÍî
+{javascript:S1172("_Remove the unused function parameter "type" or rename it to "_type" to make intention explicit.(·ªÍî
+yjavascript:S1172("]Remove the unused function parameter "set" or rename it to "_set" to make intention explicit.(·ªÍî
+{javascript:S1172("_Remove the unused function parameter "meta" or rename it to "_meta" to make intention explicit.(·ªÍî
+‚javascript:S27031"fAdd the "let", "const" or "var" keyword to this declaration of "searchTableSkill" to make it explicit.( ¾äë
+tjavascript:S1172H"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(Ì½¸o
+ujavascript:S1172L"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ğìÄü
+{javascript:S1172L"_Remove the unused function parameter "edit" or rename it to "_edit" to make intention explicit.(ğìÄü
+zjavascript:S1172X"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(¼ß½›şÿÿÿÿ
+ujavascript:S1172`"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ìëÚÆ
+{javascript:S1172š"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ŞåŠíıÿÿÿÿ

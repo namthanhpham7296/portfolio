@@ -1,0 +1,1830 @@
+.nav-item i {
+    margin-bottom: -3px;
+    height: 20px;
+    color: #b4bcc8;
+}
+
+.nav-item.active > a > span{
+    color: white !important;
+}
+
+li.nav-item.active  a > i{
+    fill: #fff !important;
+}
+
+.icon-setting-left-menu {
+    background: url("../../images/menu-icon/setting.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-setting-left-menu.active {
+    background: url("../../images/menu-icon/setting-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-access-project-left-menu {
+    background: url("../../images/menu-icon/access_project.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-access-project-left-menu.active {
+    background: url("../../images/menu-icon/access_project-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-project-left-menu {
+    background: url("../../images/menu-icon/project.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-project-left-menu.active {
+    background: url("../../images/menu-icon/project-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-company-left-menu {
+    background: url("../../images/menu-icon/company.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-company-left-menu.active {
+    background: url("../../images/menu-icon/company-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-position-left-menu {
+    background: url("../../images/menu-icon/position.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-position-left-menu.active {
+    background: url("../../images/menu-icon/position-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-staff-left-menu {
+    background: url("../../images/menu-icon/user-group.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-staff-left-menu.active {
+    background: url("../../images/menu-icon/user-group-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-product-left-menu {
+    background: url("../../images/menu-icon/product.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-product-left-menu.active {
+    background: url("../../images/menu-icon/product-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-order-left-menu {
+    background: url("../../images/menu-icon/order.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-order-left-menu.active {
+    background: url("../../images/menu-icon/order-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-customer-left-menu {
+    background: url("../../images/menu-icon/customer.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-customer-left-menu.active {
+    background: url("../../images/menu-icon/customer-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-permission-left-menu {
+    background: url("../../images/menu-icon/permission.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-permission-left-menu.active {
+    background: url("../../images/menu-icon/permission-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-role-left-menu {
+    background: url("../../images/menu-icon/role.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-role-left-menu.active {
+    background: url("../../images/menu-icon/role-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-level-left-menu {
+    background: url("../../images/menu-icon/level.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-level-left-menu.active {
+    background: url("../../images/menu-icon/level-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-supplier-left-menu {
+    background: url("../../images/menu-icon/supplier.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-supplier-left-menu.active {
+    background: url("../../images/menu-icon/supplier-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-bank-left-menu {
+    background: url("../../images/menu-icon/bank.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-bank-left-menu.active {
+    background: url("../../images/menu-icon/bank-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-campaign-left-menu {
+    background: url("../../images/menu-icon/campaign.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-campaign-left-menu.active {
+    background: url("../../images/menu-icon/campaign-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-running-left-menu {
+    background: url("../../images/menu-icon/running.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-running-left-menu.active {
+    background: url("../../images/menu-icon/running-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+
+.icon-setting-color-left-menu {
+    background: url("../../images/menu-icon/setting-color.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-setting-color-left-menu.active {
+    background: url("../../images/menu-icon/setting-color-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-transaction-history-left-menu {
+    background: url("../../images/menu-icon/history.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-transaction-history-left-menu.active {
+    background: url("../../images/menu-icon/history-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-payment-left-menu {
+    background: url("../../images/menu-icon/payment.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-payment-left-menu.active {
+    background: url("../../images/menu-icon/payment-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-profile-left-menu {
+    background: url("../../images/menu-icon/profile.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-profile-left-menu.active {
+    background: url("../../images/menu-icon/profile-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-dev-language-left-menu {
+    background: url("../../images/menu-icon/dev-language.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-dev-language-left-menu.active {
+    background: url("../../images/menu-icon/dev-language-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-framework-left-menu {
+    background: url("../../images/menu-icon/framework.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-framework-left-menu.active {
+    background: url("../../images/menu-icon/framework-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-file-type-left-menu {
+    background: url("../../images/menu-icon/file-type.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-file-type-left-menu.active {
+    background: url("../../images/menu-icon/file-type-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-payment-requirement-left-menu {
+    background: url("../../images/menu-icon/payment-requirement.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-payment-requirement-left-menu.active {
+    background: url("../../images/menu-icon/payment-requirement-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-statistical-order-left-menu {
+    background: url("../../images/menu-icon/statistical-order.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-statistical-order-left-menu.active {
+    background: url("../../images/menu-icon/statistical-order-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-statistical-product-left-menu {
+    background: url("../../images/menu-icon/statistical-product.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-statistical-product-left-menu.active {
+    background: url("../../images/menu-icon/statistical-product-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-statistical-order-detail-left-menu {
+    background: url("../../images/menu-icon/statistical-detail.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-statistical-order-detail-left-menu.active {
+    background: url("../../images/menu-icon/statistical-detail-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-calculate-salary-left-menu {
+    background: url("../../images/menu-icon/calculate-salary.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-calculate-salary-left-menu.active {
+    background: url("../../images/menu-icon/calculate-salary-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-salary-basic-left-menu {
+    background: url("../../images/menu-icon/salary-basic.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-salary-basic-left-menu.active {
+    background: url("../../images/menu-icon/salary-basic-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-salary-period-left-menu {
+    background: url("../../images/menu-icon/salary-period.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-salary-period-left-menu.active {
+    background: url("../../images/menu-icon/salary-period-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-salary-calculator-left-menu {
+    background: url("../../images/menu-icon/salary-calculator.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-salary-calculator-left-menu.active {
+    background: url("../../images/menu-icon/salary-calculator-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-distribution-left-menu {
+    background: url("../../images/menu-icon/distribution.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-distribution-left-menu.active {
+    background: url("../../images/menu-icon/distribution-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-work-shift-left-menu {
+    background: url("../../images/menu-icon/work-shift.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-work-shift-left-menu.active {
+    background: url("../../images/menu-icon/work-shift-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-list-left-menu {
+    background: url("../../images/menu-icon/list.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-list-left-menu.active {
+    background: url("../../images/menu-icon/list-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-bonus-management-left-menu {
+    background: url("../../images/menu-icon/bonus.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-bonus-management-left-menu.active {
+    background: url("../../images/menu-icon/bonus-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-ratio-left-menu {
+    background: url("../../images/menu-icon/ratio.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-ratio-left-menu.active {
+    background: url("../../images/menu-icon/ratio-active.svg") no-repeat 0 0/100% 100%;;
+}
+
+.icon-push-left-menu {
+    background: url("../../images/menu-icon/plane.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-push-left-menu.active {
+    background: url("../../images/menu-icon/plane-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-left-menu {
+    background: url("../../images/menu-icon/documents.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-left-menu.active {
+    background: url("../../images/menu-icon/documents-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-categories-left-menu {
+    background: url("../../images/menu-icon/categories.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-categories-left-menu.active {
+    background: url("../../images/menu-icon/categories-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-type-left-menu {
+    background: url("../../images/menu-icon/document-type.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-type-left-menu.active {
+    background: url("../../images/menu-icon/document-type-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-task-left-menu {
+    background: url("../../images/menu-icon/task.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-task-left-menu.active {
+    background: url("../../images/menu-icon/task-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-task-assigned-left-menu {
+    background: url("../../images/menu-icon/task-assigned.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-task-assigned-active-left-menu.active {
+    background: url("../../images/menu-icon/task-assigned-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-form-left-menu{
+    background: url("../../images/menu-icon/document-form.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-form-left-menu.active{
+    background: url("../../images/menu-icon/document-form-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-security-left-menu{
+    background: url("../../images/menu-icon/document-security.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-security-left-menu.active{
+    background: url("../../images/menu-icon/document-security-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-priority-left-menu {
+    background: url("../../images/menu-icon/priority.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-priority-left-menu.active {
+    background: url("../../images/menu-icon/priority-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+.icon-document-permission-left-menu{
+    background: url("../../images/menu-icon/document-permission.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-permission-left-menu.active{
+    background: url("../../images/menu-icon/document-permission-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-agency-received-left-menu{
+    background: url("../../images/menu-icon/document-agency-received.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-agency-received-left-menu.active{
+    background: url("../../images/menu-icon/document-agency-received-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-dispatch-out-left-menu{
+    background: url("../../images/menu-icon/document-dispatch-out.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-dispatch-out-left-menu.active{
+    background: url("../../images/menu-icon/document-dispatch-out-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-dispatch-in-left-menu{
+    background: url("../../images/menu-icon/document-dispatch-in.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-dispatch-in-left-menu.active{
+    background: url("../../images/menu-icon/document-dispatch-in-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-process-status-left-menu{
+    background: url("../../images/menu-icon/document-process-status.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-process-status-left-menu.active{
+    background: url("../../images/menu-icon/document-process-status-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+.icon-system-left-menu{
+    background: url("../../images/menu-icon/system.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-system-left-menu.active{
+    background: url("../../images/menu-icon/system-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-module-access-left-menu{
+    background: url("../../images/menu-icon/module-access.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-module-access-left-menu.active{
+    background: url("../../images/menu-icon/module-access-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-arrived-left-menu{
+    background: url("../../images/menu-icon/manage-document-arrived.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-arrived-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-arrived-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-temp-left-menu{
+    background: url("../../images/menu-icon/manage-document-temp.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-temp-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-temp-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-left-left-menu{
+    background: url("../../images/menu-icon/manage-document-left.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-left-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-left-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-internal-left-menu{
+    background: url("../../images/menu-icon/manage-document-internal.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-internal-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-internal-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-template-left-menu{
+    background: url("../../images/menu-icon/manage-document-template.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-template-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-template-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-job-left-menu{
+    background: url("../../images/menu-icon/manage-document-job.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-job-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-job-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-cabinet-left-menu{
+    background: url("../../images/menu-icon/manage-document-cabinet.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-manage-document-cabinet-left-menu.active{
+    background: url("../../images/menu-icon/manage-document-cabinet-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-field-left-menu{
+    background: url("../../images/menu-icon/field.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-field-left-menu.active{
+    background: url("../../images/menu-icon/field-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-security-level-left-menu{
+    background: url("../../images/menu-icon/document-security-level.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-security-level-left-menu.active{
+    background: url("../../images/menu-icon/document-security-level-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-emergency-level-left-menu{
+    background: url("../../images/menu-icon/document-emergency-level.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-emergency-level-left-menu.active{
+    background: url("../../images/menu-icon/document-emergency-level-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-department-left-menu{
+    background: url("../../images/menu-icon/document-department.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-department-left-menu.active{
+    background: url("../../images/menu-icon/document-department-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-dashboard-left-menu{
+    background: url("../../images/menu-icon/dashboard.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.icon-dashboard-left-menu.active{
+    background: url("../../images/menu-icon/dashboard-active.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.icon-module-left-menu{
+    background: url("../../images/menu-icon/module.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.icon-module-left-menu.active{
+    background: url("../../images/menu-icon/module-active.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-work-status-left-menu{
+    background: url("../../images/menu-icon/document-work-status.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-work-status-left-menu.active{
+    background: url("../../images/menu-icon/document-work-status-active.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.document-create-dispatch-left-menu{
+    background: url("../../images/menu-icon/document-create-dispatch.svg") no-repeat 0 0/100% 100%;
+}
+
+.document-create-dispatch-left-menu.active{
+    background: url("../../images/menu-icon/document-create-dispatch-active.svg") no-repeat 0 0/100% 100%;
+}
+
+/*HR*/
+.icon-hr-timekeeping-calendar-icon{
+    background: url("../../images/menu-icon/hr-timekeeping-calendar.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-timekeeping-calendar-icon.active{
+    background: url("../../images/menu-icon/hr-timekeeping-calendar-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-timekeeping-sign-icon{
+    background: url("../../images/menu-icon/hr-timekeeping-sign.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-timekeeping-sign-icon.active{
+    background: url("../../images/menu-icon/hr-timekeeping-sign-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-holiday-bike-icon{
+    background: url("../../images/menu-icon/hr-holiday-bike.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-holiday-bike-icon.active{
+    background: url("../../images/menu-icon/hr-holiday-bike-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-leave-reason-bed-icon{
+    background: url("../../images/menu-icon/hr-leave-reason-bed.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-leave-reason-bed-icon.active{
+    background: url("../../images/menu-icon/hr-leave-reason-bed-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-leave-reason-bed-icon{
+    background: url("../../images/menu-icon/hr-ta-machine-cash.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-ta-machine-cash-icon{
+    background: url("../../images/menu-icon/hr-ta-machine-cash.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-ta-machine-cash-icon.active{
+    background: url("../../images/menu-icon/hr-ta-machine-cash-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-history-icon{
+    background: url("../../images/menu-icon/hr-history.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-history-icon.active{
+    background: url("../../images/menu-icon/hr-history-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-general-icon{
+    background: url("../../images/menu-icon/hr-general.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-general-icon.active{
+    background: url("../../images/menu-icon/hr-general-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-leave-injured-icon{
+    background: url("../../images/menu-icon/hr-leave-injured.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-leave-injured-icon.active{
+    background: url("../../images/menu-icon/hr-leave-injured-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-hourglass-icon{
+    background: url("../../images/menu-icon/hr-hourglass.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-hourglass-icon.active{
+    background: url("../../images/menu-icon/hr-hourglass-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-hourglass-half-icon{
+    background: url("../../images/menu-icon/hr-hourglass-half.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-hourglass-half-icon.active{
+    background: url("../../images/menu-icon/hr-hourglass-half-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-address-book-left-menu{
+    background: url("../../images/menu-icon/hr-address-book.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-address-book-left-menu.active{
+    background: url("../../images/menu-icon/hr-address-book-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-user-check-icon{
+    background: url("../../images/menu-icon/hr-user-check.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-hr-user-check-icon.active{
+    background: url("../../images/menu-icon/hr-user-check-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.document-process-left-menu{
+    background: url("../../images/menu-icon/document-process.svg") no-repeat 0 0/100% 100%;
+}
+
+.document-process-left-menu.active{
+    background: url("../../images/menu-icon/document-process-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-work-type-left-menu{
+    background: url("../../images/menu-icon/document-work-status.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-work-type-left-menu.active{
+    background: url("../../images/menu-icon/document-work-status-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+
+.icon-document-sample-left-menu{
+    background: url("../../images/menu-icon/document-sample.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-sample-left-menu.active{
+    background: url("../../images/menu-icon/document-sample-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-user-left-menu{
+    background: url("../../images/menu-icon/user-group.svg?t=1") no-repeat 0 0/100% 100%;
+}
+
+.icon-user-left-menu.active{
+    background: url("../../images/menu-icon/user-group-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-department-left-menu{
+    background: url("../../images/menu-icon/department.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-department-left-menu.active{
+    background: url("../../images/menu-icon/department-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-role-access-left-menu{
+    background: url("../../images/menu-icon/department.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-role-access-left-menu.active{
+    background: url("../../images/menu-icon/department-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-import-user-left-menu{
+    background: url("../../images/menu-icon/upload.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-import-user-left-menu.active{
+    background: url("../../images/menu-icon/upload-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-publisher-left-menu{
+    background: url("../../images/menu-icon/user-tie.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-document-publisher-left-menu.active{
+    background: url("../../images/menu-icon/user-tie-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-contracts-left-menu{
+    background: url("../../images/menu-icon/crm-customer-contracts.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-contracts-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-contracts-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-contracts-employee-left-menu{
+    background: url("../../images/menu-icon/crm-customer-contracts-employee.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-contracts-employee-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-contracts-employee-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-contracts-employee-left-menu{
+    background: url("../../images/menu-icon/crm-supplier-contracts-employee.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-contracts-employee-left-menu.active{
+    background: url("../../images/menu-icon/crm-supplier-contracts-employee-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-area-left-menu{
+    background: url("../../images/menu-icon/crm-customer-area.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-area-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-area-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-group-left-menu{
+    background: url("../../images/menu-icon/crm-customer-group.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-group-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-group-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-career-left-menu{
+    background: url("../../images/menu-icon/crm-customer-career.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-career-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-career-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-company-type-left-menu{
+    background: url("../../images/menu-icon/crm-company-type.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-company-type-left-menu.active{
+    background: url("../../images/menu-icon/crm-company-type-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-company-size-left-menu{
+    background: url("../../images/menu-icon/crm-company-size.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-company-size-left-menu.active{
+    background: url("../../images/menu-icon/crm-company-size-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-info-root-left-menu{
+    background: url("../../images/menu-icon/crm-info-root.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-company-size-left-menu.active{
+    background: url("../../images/menu-icon/crm-info-root-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-contract-type-left-menu{
+    background: url("../../images/menu-icon/crm-contract-type.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-contract-type-left-menu.active{
+    background: url("../../images/menu-icon/crm-contract-type-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-contract-task-left-menu{
+    background: url("../../images/menu-icon/crm-contract-task.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-contract-task-left-menu.active{
+    background: url("../../images/menu-icon/crm-contract-task-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-contract-status-left-menu{
+    background: url("../../images/menu-icon/crm-contract-status.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-contract-status-left-menu.active{
+    background: url("../../images/menu-icon/crm-contract-status-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-group-left-menu{
+    background: url("../../images/menu-icon/crm-transaction-group.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-group-left-menu.active{
+    background: url("../../images/menu-icon/crm-transaction-group-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-status-left-menu{
+    background: url("../../images/menu-icon/crm-transaction-status.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-status-left-menu.active{
+    background: url("../../images/menu-icon/crm-transaction-status-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-result-left-menu{
+    background: url("../../images/menu-icon/crm-transaction-result.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-result-left-menu.active{
+    background: url("../../images/menu-icon/crm-transaction-result-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-priority-left-menu{
+    background: url("../../images/menu-icon/crm-transaction-priority.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-transaction-priority-left-menu.active{
+    background: url("../../images/menu-icon/crm-transaction-prority-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+.icon-crm-customer-contact-left-menu{
+    background: url("../../images/menu-icon/crm-customer-contact.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-contact-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-contact-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-info-left-menu{
+    background: url("../../images/menu-icon/crm-customer-info.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-info-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-info-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-staff-assign-left-menu{
+    background: url("../../images/menu-icon/crm-customer-staff-assign.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-staff-assign-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-staff-assign-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-info-left-menu{
+    background: url("../../images/menu-icon/crm-supplier-info.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-info-left-menu.active{
+    background: url("../../images/menu-icon/crm-supplier-info-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-staff-assign-left-menu{
+    background: url("../../images/menu-icon/crm-supplier-staff-assign.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-staff-assign-left-menu.active{
+    background: url("../../images/menu-icon/crm-supplier-staff-assign-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-position-left-menu{
+    background: url("../../images/menu-icon/crm-position.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-position-left-menu.active{
+    background: url("../../images/menu-icon/crm-position-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-transaction-left-menu{
+    background: url("../../images/menu-icon/crm-customer-transaction.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-transaction-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-transaction-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-transaction-follow-left-menu{
+    background: url("../../images/menu-icon/crm-customer-transaction-follow.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-transaction-follow-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-transaction-follow-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-transaction-left-menu{
+    background: url("../../images/menu-icon/crm-supplier-transaction.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-transaction-left-menu.active{
+    background: url("../../images/menu-icon/crm-supplier-transaction-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-transaction-follow-left-menu{
+    background: url("../../images/menu-icon/crm-supplier-transaction-follow.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-transaction-follow-left-menu.active{
+    background: url("../../images/menu-icon/crm-supplier-transaction-follow-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-follow-left-menu{
+    background: url("../../images/menu-icon/crm-customer-follow.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-follow-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-follow-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-follow-left-menu{
+    background: url("../../images/menu-icon/crm-supplier-follow.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-follow-left-menu.active{
+    background: url("../../images/menu-icon/crm-supplier-follow-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-arise-manage-left-menu{
+    background: url("../../images/menu-icon/crm-customer-arise-manage.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-supplier-arise-manage-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-arise-manage-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-arise-manage-left-menu{
+    background: url("../../images/menu-icon/crm-customer-arise-manage.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-crm-customer-arise-manage-left-menu.active{
+    background: url("../../images/menu-icon/crm-customer-arise-manage-active.svg") no-repeat 0 0/100% 100%;
+}
+
+/*Tài sản*/
+.icon-asset-management-left-menu{
+    background: url("../../images/menu-icon/asset-management.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-property-left-menu{
+    background: url("../../images/menu-icon/asset-management.svg") no-repeat 0 0/100% 100%;
+}
+.icon-aaccessories-property-left-menu.active{
+    background: url("../../images/menu-icon/asset-management-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-handover-record-left-menu{
+    background: url("../../images/menu-icon/accessories-handover-record.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-handover-record-left-menu.active{
+    background: url("../../images/menu-icon/accessories-handover-record-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-handover-staff-left-menu{
+    background: url("../../images/menu-icon/accessories-handover-staff.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-handover-staff-left-menu.active{
+    background: url("../../images/menu-icon/accessories-handover-staff-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-increase-decrease-left-menu{
+    background: url("../../images/menu-icon/accessories-increase-decrease.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-increase-decrease-left-menu.active{
+    background: url("../../images/menu-icon/accessories-increase-decrease-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-accreditation-vote-left-menu{
+    background: url("../../images/menu-icon/accessories-accreditation-vote.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-accreditation-vote-left-menu.active{
+    background: url("../../images/menu-icon/accessories-accreditation-vote-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-transfer-left-menu{
+    background: url("../../images/menu-icon/accessories-transfer.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-transfer-left-menu.active{
+    background: url("../../images/menu-icon/accessories-transfer-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-repair-vote-left-menu{
+    background: url("../../images/menu-icon/accessories-repair-vote.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-repair-vote-left-menu.active{
+    background: url("../../images/menu-icon/accessories-repair-vote-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-maintenance-left-menu{
+    background: url("../../images/menu-icon/accessories-maintenance.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-maintenance-left-menu.active{
+    background: url("../../images/menu-icon/accessories-maintenance-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-registry-vote-left-menu{
+    background: url("../../images/menu-icon/accessories-registry-vote.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-registry-vote-left-menu.active{
+    background: url("../../images/menu-icon/accessories-registry-vote-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-broken-vote-left-menu{
+    background: url("../../images/menu-icon/accessories-broken-vote.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-broken-vote-left-menu.active{
+    background: url("../../images/menu-icon/accessories-broken-vote-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-depreciation-left-menu{
+    background: url("../../images/menu-icon/accessories-depreciation.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-depreciation-left-menu.active{
+    background: url("../../images/menu-icon/accessories-depreciation-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-refund-record-left-menu{
+    background: url("../../images/menu-icon/accessories-refund-record.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-refund-record-left-menu.active{
+    background: url("../../images/menu-icon/accessories-refund-record-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-reduce-property-left-menu{
+    background: url("../../images/menu-icon/accessories-reduce-property.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-reduce-property-left-menu.active{
+    background: url("../../images/menu-icon/accessories-reduce-property-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-payment-property-left-menu{
+    background: url("../../images/menu-icon/accessories-payment-property.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-payment-property-left-menu.active{
+    background: url("../../images/menu-icon/accessories-payment-property-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-electronic-record-left-menu{
+    background: url("../../images/menu-icon/accessories-electronic-record.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-electronic-record-left-menu.active{
+    background: url("../../images/menu-icon/accessories-electronic-record-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-tools-left-menu{
+    background: url("../../images/menu-icon/accessories-tool.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tools-left-menu.active{
+    background: url("../../images/menu-icon/accessories-tool-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-tool-list-left-menu{
+    background: url("../../images/menu-icon/accessories-tool.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tool-list-left-menu.active{
+    background: url("../../images/menu-icon/accessories-tool-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-tools-type-left-menu{
+    background: url("../../images/menu-icon/accessories-tools-type.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tools-type-left-menu.active{
+    background: url("../../images/menu-icon/accessories-tools-type-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+.icon-accessories-type-left-menu{
+    background: url("../../images/menu-icon/accessories-type.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-type-left-menu.active{
+    background: url("../../images/menu-icon/accessories-type-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-accessories-group-left-menu{
+    background: url("../../images/menu-icon/accessories-group.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-group-left-menu.active{
+    background: url("../../images/menu-icon/accessories-group-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tools-group-left-menu{
+    background: url("../../images/menu-icon/accessories-tools-group.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tools-group-left-menu.active{
+    background: url("../../images/menu-icon/accessories-tools-group-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tools-group-left-menu{
+    background: url("../../images/menu-icon/accessories-tools-group.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-tools-group-left-menu.active{
+    background: url("../../images/menu-icon/accessories-tools-group-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-origin-property-left-menu{
+    background: url("../../images/menu-icon/accessories-origin-property.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-origin-property-left-menu.active{
+    background: url("../../images/menu-icon/accessories-origin-property-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-reason-increasing-left-menu{
+    background: url("../../images/menu-icon/accessories-reason-increasing.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-reason-increasing-left-menu.active{
+    background: url("../../images/menu-icon/accessories-reason-increasing-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-reason-reducing-left-menu{
+    background: url("../../images/menu-icon/accessories-reason-reducing.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-reason-reducing-left-menu.active{
+    background: url("../../images/menu-icon/accessories-reason-reducing-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-type-insurance-left-menu{
+    background: url("../../images/menu-icon/accessories-type-insurance.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-type-insurance-left-menu.active{
+    background: url("../../images/menu-icon/accessories-type-insurance-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-technical-data-left-menu{
+    background: url("../../images/menu-icon/accessories-technical-data.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-technical-data-left-menu.active{
+    background: url("../../images/menu-icon/accessories-technical-data-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-ingredients-attach-left-menu{
+    background: url("../../images/menu-icon/accessories-ingredients-attach.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-ingredients-attach-left-menu.active{
+    background: url("../../images/menu-icon/accessories-ingredients-attach-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-quality-hierarchy-left-menu{
+    background: url("../../images/menu-icon/accessories-quality-hierarchy.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-quality-hierarchy-left-menu.active{
+    background: url("../../images/menu-icon/accessories-quality-hierarchy-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-periodic-couting-records-left-menu{
+    background: url("../../images/menu-icon/accessories-periodic-couting-records.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-periodic-couting-records-left-menu.active{
+    background: url("../../images/menu-icon/accessories-periodic-couting-records-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-lost-tool-left-menu{
+    background: url("../../images/menu-icon/accessories-lost-tool.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-lost-tool-left-menu.active{
+    background: url("../../images/menu-icon/accessories-lost-tool-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-broken-tool-left-menu{
+    background: url("../../images/menu-icon/accessories-broken-tool.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-broken-tool-left-menu.active{
+    background: url("../../images/menu-icon/accessories-broken-tool-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-factory-left-menu{
+    background: url("../../images/menu-icon/accessories-factory.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-factory-left-menu.active{
+    background: url("../../images/menu-icon/accessories-factory-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-production-unit-left-menu{
+    background: url("../../images/menu-icon/accessories-production-unit.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-production-unit-left-menu.active{
+    background: url("../../images/menu-icon/accessories-production-unit-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-unit-left-menu{
+    background: url("../../images/menu-icon/accessories-unit.svg") no-repeat 0 0/100% 100%;
+}
+.icon-accessories-unit-left-menu.active{
+    background: url("../../images/menu-icon/accessories-unit-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-sub-plan-barcode-left-menu{
+    background: url("../../images/menu-icon/manufacturing-sub-plan-barcode.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-sub-plan-barcode-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-sub-plan-barcode-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-sub-plan-detail-barcode-left-menu{
+    background: url("../../images/menu-icon/manufacturing-sub-plan-detail-barcode.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-sub-plan-detail-barcode-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-sub-plan-detail-barcode-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-motorcycle-inspection-left-menu{
+    background: url("../../images/menu-icon/manufacturing-motorcycle-inspection.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-motorcycle-inspection-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-motorcycle-inspection-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-accessory-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-accessory-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-rating-quality-left-menu{
+    background: url("../../images/menu-icon/manufacturing-rating-quality.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-rating-quality-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-rating-quality-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-management-track-arise-left-menu{
+    background: url("../../images/menu-icon/manufacturing-management-track-arise.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-management-track-arise-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-management-track-arise-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-stop-performing-detail-plan-left-menu{
+    background: url("../../images/menu-icon/manufacturing-stop-performing.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-stop-performing-detail-plan-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-stop-performing-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-inspection-report-left-menu{
+    background: url("../../images/menu-icon/manufacturing-inspection-report.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-inspection-report-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-inspection-report-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-track-progress-left-menu{
+    background: url("../../images/menu-icon/manufacturing-track-progress.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-track-progress-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-track-progress-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-work-plan-left-menu{
+    background: url("../../images/menu-icon/manufacturing-work-plan.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-work-plan-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-work-plan-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-request-issuance-left-menu{
+    background: url("../../images/menu-icon/manufacturing-request-issuance.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-request-issuance-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-request-issuance-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-record-completion-rate-left-menu{
+    background: url("../../images/menu-icon/manufacturing-record-completion-rate.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-record-completion-rate-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-record-completion-rate-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-update-result-left-menu{
+    background: url("../../images/menu-icon/manufacturing-update-result.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-update-result-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-update-result-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-left-menu{
+    background: url("../../images/menu-icon/manufacturing.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-manage-left-menu{
+    background: url("../../images/menu-icon/manufacturing-manage.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-manage-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-manage-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-car-maker-left-menu{
+    background: url("../../images/menu-icon/manufacturing-car-maker.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-car-maker-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-car-maker-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-country-maker-left-menu{
+    background: url("../../images/menu-icon/manufacturing-country-maker.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-country-maker-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-country-maker-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-type-business-left-menu{
+    background: url("../../images/menu-icon/manufacturing-type-business.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-type-business-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-type-business-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-type-motor-vehicles-left-menu{
+    background: url("../../images/menu-icon/manufacturing-type-motor-vehicles.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-type-motor-vehicles-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-type-motor-vehicles-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-car-left-menu{
+    background: url("../../images/menu-icon/manufacturing-car.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-car-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-car-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-cluster-system-left-menu{
+    background: url("../../images/menu-icon/manufacturing-cluster-system.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-cluster-system-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-cluster-system-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-repair-level-left-menu{
+    background: url("../../images/menu-icon/manufacturing-repair-level.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-repair-level-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-repair-level-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-priority-left-menu{
+    background: url("../../images/menu-icon/manufacturing-priority.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-priority-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-priority-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-status-work-order-left-menu{
+    background: url("../../images/menu-icon/manufacturing-work-order.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-status-work-order-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-work-order-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-number-job-left-menu{
+    background: url("../../images/menu-icon/manufacturing-number-job.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-number-job-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-number-job-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-number-job-metro-left-menu{
+    background: url("../../images/menu-icon/manufacturing-number-job-metro.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-number-job-metro-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-number-job-metro-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-left-menu{
+    background: url("../../images/menu-icon/manufacturing-accessory.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-accessory-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-specification-left-menu{
+    background: url("../../images/menu-icon/manufacturing-accessory-specification.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-specification-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-accessory-specification-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-unit-left-menu{
+    background: url("../../images/menu-icon/manufacturing-unit.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-unit-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-unit-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-primary-accessory-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-accessory-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-primary-accessory-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-accessory-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-secondary-accessory-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-secondary-accessory-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-secondary-accessory-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-secondary-accessory-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-fuel-left-menu{
+    background: url("../../images/menu-icon/manufacturing-fuel.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-fuel-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-fuel-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-fuel-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-fuel-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-fuel-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-fuel-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-detail-repair-left-menu{
+    background: url("../../images/menu-icon/manufacturing-detail-repair.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-detail-repair-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-detail-repair-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-deli-motorcycle-repair-left-menu{
+    background: url("../../images/menu-icon/manufacturing-deli-motorcycle-repair.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-deli-motorcycle-repair-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-deli-motorcycle-repair-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-primary-summarize-left-menu{
+    background: url("../../images/menu-icon/manufacturing-primary-summarize.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-primary-summarize-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-primary-summarize-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-secondary-summarize-left-menu{
+    background: url("../../images/menu-icon/manufacturing-secondary-summarize.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-secondary-summarize-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-secondary-summarize-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-labor-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-labor-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-labor-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-labor-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-car-sub-plan-approve-left-menu{
+    background: url("../../images/menu-icon/manufacturing-car-sub-plan-approve.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-car-sub-plan-approve-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-car-sub-plan-approve-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-production-team-left-menu{
+    background: url("../../images/menu-icon/manufacturing-production-team.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-production-team-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-production-team-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-role-left-menu{
+    background: url("../../images/menu-icon/manufacturing-role.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-role-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-role-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-labor-voucher-summarize-left-menu{
+    background: url("../../images/menu-icon/manufacturing-labor-voucher-summarize.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-labor-voucher-summarize-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-labor-voucher-summarize-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-fuel-voucher-summarize-left-menu{
+    background: url("../../images/menu-icon/manufacturing-fuel-voucher-summarize.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-fuel-voucher-summarize-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-fuel-voucher-summarize-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-repair-machine-left-menu{
+    background: url("../../images/menu-icon/manufacturing-repair-machine.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-repair-machine-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-repair-machine-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-team-assign-left-menu{
+    background: url("../../images/menu-icon/manufacturing-team-assign.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-team-assign-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-team-assign-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-employee-hire-outside-left-menu{
+    background: url("../../images/menu-icon/manufacturing-employee-hire-outside.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-employee-hire-outside-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-employee-hire-outside-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-outsource-work-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-outsource-work-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-outsource-work-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-outsource-work-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-material-intent-left-menu{
+    background: url("../../images/menu-icon/manufacturing-material-intent.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-material-intent-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-material-intent-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-suggest-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-accessory-suggest-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-accessory-suggest-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-accessory-suggest-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-intended-purchase-voucher-left-menu{
+    background: url("../../images/menu-icon/manufacturing-intended-purchase-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-intended-purchase-voucher-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-intended-purchase-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-engine-inspection-left-menu{
+    background: url("../../images/menu-icon/manufacturing-engine-inspection.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-engine-inspection-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-engine-inspection-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-handover-enterprise-warehouse-left-menu{
+    background: url("../../images/menu-icon/manufacturing-handover-enterprise-warehouse.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-handover-enterprise-warehouse-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-handover-enterprise-warehouse-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-handover-car-customer-left-menu{
+    background: url("../../images/menu-icon/manufacturing-handover-car-customer.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-handover-car-customer-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-handover-car-customer-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-cluster-detail-quality-inspection-left-menu{
+    background: url("../../images/menu-icon/manufacturing-cluster-detail-quality-inspection.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-cluster-detail-quality-inspection-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-cluster-detail-quality-inspection-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-detail-quality-inspection-left-menu{
+    background: url("../../images/menu-icon/manufacturing-detail-quality-inspection.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-detail-quality-inspection-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-detail-quality-inspection-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-request-issuance-of-supply-left-menu{
+    background: url("../../images/menu-icon/manufacturing-request-issuance-of-supply.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-request-issuance-of-supply-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-request-issuance-of-supply-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-search-information-left-menu{
+    background: url("../../images/menu-icon/manufacturing-search-information.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-search-information-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-search-information-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-target-group-left-menu{
+    background: url("../../images/menu-icon/manufacturing-target-group.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-target-group-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-target-group-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-track-progress-at-group-left-menu{
+    background: url("../../images/menu-icon/manufacturing-track-progress-at-group.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-track-progress-at-group-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-track-progress-at-group-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-calendar-chart-left-menu{
+    background: url("../../images/menu-icon/manufacturing-calendar-chart.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-calendar-chart-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-calendar-chart-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-task-number-left-menu{
+    background: url("../../images/menu-icon/manufacturing-task-number.svg") no-repeat 0 0/100% 100%;
+}
+.icon-manufacturing-task-number-left-menu.active{
+    background: url("../../images/menu-icon/manufacturing-task-number-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-sub-plan-unit-price-left-menu{
+    background: url("../../images/menu-icon/cost-sub-plan-unit-price.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-sub-plan-unit-price-left-menu.active{
+    background: url("../../images/menu-icon/cost-sub-plan-unit-price-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-type-left-menu{
+    background: url("../../images/menu-icon/cost-type.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-type-left-menu.active{
+    background: url("../../images/menu-icon/cost-type-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-labor-type-left-menu{
+    background: url("../../images/menu-icon/cost-labor-type.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-labor-type-left-menu.active{
+    background: url("../../images/menu-icon/cost-labor-type-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-quota-accessories-left-menu{
+    background: url("../../images/menu-icon/cost-quota-accessories.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-quota-accessories-left-menu.active{
+    background: url("../../images/menu-icon/cost-quota-accessories-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-quota-insurance-left-menu{
+    background: url("../../images/menu-icon/cost-quota-insurance.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-quota-insurance-left-menu.active{
+    background: url("../../images/menu-icon/cost-quota-insurance-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-contract-number-job-left-menu{
+    background: url("../../images/menu-icon/cost-contract-number-job.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-contract-number-job-left-menu.active{
+    background: url("../../images/menu-icon/cost-contract-number-job-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-deposit-left-menu{
+    background: url("../../images/menu-icon/cost-deposit.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-deposit-left-menu.active{
+    background: url("../../images/menu-icon/cost-deposit-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-quota-labor-left-menu{
+    background: url("../../images/menu-icon/cost-quota-labor.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-quota-labor-left-menu.active{
+    background: url("../../images/menu-icon/cost-quota-labor-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-unit-price-left-menu{
+    background: url("../../images/menu-icon/cost-approve-unit-price.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-unit-price-left-menu.active{
+    background: url("../../images/menu-icon/cost-approve-unit-price-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-labor-cost-left-menu{
+    background: url("../../images/menu-icon/cost-approve-labor-cost.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-labor-cost-left-menu.active{
+    background: url("../../images/menu-icon/cost-approve-labor-cost-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-outsource-accessory-left-menu{
+    background: url("../../images/menu-icon/cost-approve-outsource-accessory.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-outsource-accessory-left-menu.active{
+    background: url("../../images/menu-icon/cost-approve-outsource-accessory-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-edit-sub-plan-left-menu{
+    background: url("../../images/menu-icon/cost-edit-sub-plan.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-edit-sub-plan-left-menu.active{
+    background: url("../../images/menu-icon/cost-edit-sub-plan-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-list-cost-voucher-left-menu{
+    background: url("../../images/menu-icon/cost-list-cost-voucher.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-list-cost-voucher-left-menu.active{
+    background: url("../../images/menu-icon/cost-list-cost-voucher-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-settle-labor-cost-left-menu{
+    background: url("../../images/menu-icon/cost-settle-labor-cost.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-settle-labor-cost-left-menu.active{
+    background: url("../../images/menu-icon/cost-settle-labor-cost-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-notify-real-cost-left-menu{
+    background: url("../../images/menu-icon/cost-notify-real-cost.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-notify-real-cost-left-menu.active{
+    background: url("../../images/menu-icon/cost-notify-real-cost-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-purchase-unit-price-left-menu{
+    background: url("../../images/menu-icon/cost-approve-purchase-unit-price.svg") no-repeat 0 0/100% 100%;
+}
+.icon-cost-approve-purchase-unit-price-left-menu.active{
+    background: url("../../images/menu-icon/cost-approve-purchase-unit-price-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-maker-left-menu{
+    background: url("../../images/menu-icon/warehouse-maker.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-maker-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-maker-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-country-maker-left-menu{
+    background: url("../../images/menu-icon/warehouse-country-maker.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-country-maker-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-country-maker-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-manager-left-menu{
+    background: url("../../images/menu-icon/warehouse-manager.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-manager-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-manager-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-commodity-group-left-menu{
+    background: url("../../images/menu-icon/warehouse-commodity-group.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-commodity-group-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-commodity-group-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-commodity-left-menu{
+    background: url("../../images/menu-icon/warehouse-commodity.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-commodity-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-commodity-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-unit-left-menu{
+    background: url("../../images/menu-icon/warehouse-unit.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-unit-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-unit-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-input-left-menu{
+    background: url("../../images/menu-icon/warehouse-input.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-input-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-input-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-msi-left-menu{
+    background: url("../../images/menu-icon/warehouse-msi.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-msi-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-msi-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-old-income-production-left-menu{
+    background: url("../../images/menu-icon/warehouse-old-income-production.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-old-income-production-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-old-income-production-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-marker-purchase-left-menu{
+    background: url("../../images/menu-icon/warehouse-marker-purchase.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-marker-purchase-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-marker-purchase-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-receipt-teachnical-left-menu{
+    background: url("../../images/menu-icon/warehouse-receipt-teachnical.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-receipt-teachnical-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-receipt-teachnical-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-refund-material-left-menu{
+    background: url("../../images/menu-icon/warehouse-refund-material.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-refund-material-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-refund-material-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-product-left-menu{
+    background: url("../../images/menu-icon/warehouse-product.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-product-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-product-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-main-supplies-bill-left-menu{
+    background: url("../../images/menu-icon/warehouse-main-supplies-bill.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-main-supplies-bill-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-main-supplies-bill-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-sub-supplies-bill-left-menu{
+    background: url("../../images/menu-icon/warehouse-sub-supplies-bill.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-sub-supplies-bill-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-sub-supplies-bill-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-commodity-inventory-delivery-left-menu{
+    background: url("../../images/menu-icon/warehouse-commodity-inventory-delivery.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-commodity-inventory-delivery-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-commodity-inventory-delivery-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-product-intentory-delivery-left-menu{
+    background: url("../../images/menu-icon/warehouse-product-intentory-delivery.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-product-intentory-delivery-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-product-intentory-delivery-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-fuel-bill-left-menu{
+    background: url("../../images/menu-icon/warehouse-fuel-bill.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-fuel-bill-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-fuel-bill-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-auxiliary-materials-inventory-delivery-left-menu{
+    background: url("../../images/menu-icon/warehouse-auxiliary-materials-inventory-delivery.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-auxiliary-materials-inventory-delivery-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-auxiliary-materials-inventory-delivery-active.svg") no-repeat 0 0/100% 100%;
+}
+
+.icon-warehouse-auxiliary-materials-inventory-delivery-left-menu{
+    background: url("../../images/menu-icon/warehouse-auxiliary-materials-inventory-delivery.svg") no-repeat 0 0/100% 100%;
+}
+.icon-warehouse-auxiliary-materials-inventory-delivery-left-menu.active{
+    background: url("../../images/menu-icon/warehouse-auxiliary-materials-inventory-delivery-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+.icon-admin-province-left-menu{
+    background: url("../../images/menu-icon/admin-province.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-province-left-menu.active{
+    background: url("../../images/menu-icon/admin-province-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-ward-left-menu{
+    background: url("../../images/menu-icon/admin-ward.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-ward-left-menu.active{
+    background: url("../../images/menu-icon/admin-ward-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-district-left-menu{
+    background: url("../../images/menu-icon/admin-district.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-district-left-menu.active{
+    background: url("../../images/menu-icon/admin-district-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-military-unit-left-menu{
+    background: url("../../images/menu-icon/admin-military-unit.svg") no-repeat 0 0/100% 100%;
+}
+.icon-admin-military-unit-left-menu.active{
+    background: url("../../images/menu-icon/admin-military-unit-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-document-cabinet-company-left-menu{
+    background: url("../../images/menu-icon/document-cabinet-company.svg") no-repeat 0 0/100% 100%;
+}
+.icon-document-cabinet-company-left-menu.active{
+    background: url("../../images/menu-icon/document-cabinet-company-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-document-cabinet-department-left-menu{
+    background: url("../../images/menu-icon/document-cabinet-department.svg") no-repeat 0 0/100% 100%;
+}
+.icon-document-cabinet-department-left-menu.active{
+    background: url("../../images/menu-icon/document-cabinet-department-active.svg") no-repeat 0 0/100% 100%;
+}
+.icon-document-cabinet-personal-left-menu{
+    background: url("../../images/menu-icon/document-cabinet-personal.svg") no-repeat 0 0/100% 100%;
+}
+.icon-document-cabinet-personal-left-menu.active{
+    background: url("../../images/menu-icon/document-cabinet-personal-active.svg") no-repeat 0 0/100% 100%;
+}
+
+
+
