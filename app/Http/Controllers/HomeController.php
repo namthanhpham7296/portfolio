@@ -46,6 +46,8 @@ class HomeController extends BaseController
             $projects[$key]['from_year'] = $from[1]."/".$from[0];
             $projects[$key]['to_year'] = $to[1]."/".$to[0];
         }
+
+
         return view('home.index', compact('siteMenu', 'projects', 'countProjects', 'skills'));
     }
 

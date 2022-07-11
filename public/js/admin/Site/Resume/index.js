@@ -45,7 +45,7 @@ $(document).ready(function(){
             class: "td-no-wrap text-center", orderable: false, name: "show_page", defaultContent: "",
             data: function(row){
                 var is_checked = row.show_homepage == "1" ? "checked" : "";
-                return "<input type='checkbox' class='chk-public' "+is_checked+">";
+                return "<input type='checkbox' class='chk-public-resume' "+is_checked+">";
             }
         },
         {
@@ -104,12 +104,12 @@ $(document).ready(function(){
                 'new_seq': diff[i].newData
             });
         }
-        postOrder(postData);
+        postOrderResume(postData);
     });
 
     $(document).on('click', '.btn-add-resume', function(e){
         $("#modalEditResume").find('h5').text(titleAdd);
-        formatData();
+        formatDataResume();
         reInitFileInput($("#photo"), [], []);
         $('.chk-continue').removeClass('hide');
         $(".selectpicker").selectpicker("refresh");
@@ -157,7 +157,7 @@ $(document).ready(function(){
         showModal("#modalEditResume");
     });
 
-    $(document).on("change", ".chk-public", function () {
+    $(document).on("change", ".chk-public-resume", function () {
         var data = getRowDataMaster(this, searchTableResume);
         $.loadingStart();
         $.ajax({
@@ -224,7 +224,7 @@ function saveDataResume(){
                 $.loadingEnd();
                 if(responseData.success){
                     if(responseData.is_continue){
-                        formatData();
+                        formatDataResume();
                         reInitFileInput($("#photo"), [], []);
                         $("input[name='continue']").prop("checked", true);
                     }else{
@@ -244,7 +244,7 @@ function saveDataResume(){
     })
 }
 
-function postOrder(postData) {
+function postOrderResume(postData) {
     $.loadingStart();
     ajax({
         url: APP.ApiUrl('admin/siteResume/rowReorder'),
@@ -291,7 +291,7 @@ function deleteData(id) {
         }
     }, true, false)
 }
-function formatData(){
+function formatDataResume(){
     $("form#form-data-resume")[0].reset();
     $("input[name='show_homepage']").prop('checked', false);
     $("input[name='continue']").prop('checked', false);

@@ -82,7 +82,7 @@ $(document).ready(function(){
                 'new_seq': diff[i].newData
             });
         }
-        postOrder(postData);
+        postOrderSkill(postData);
     });
 
     $(document).on('click', '.btn-add-skill', function(e){
@@ -200,7 +200,7 @@ function saveDataSkill(){
     })
 }
 
-function postOrder(postData) {
+function postOrderSkill(postData) {
     $.loadingStart();
     ajax({
         url: APP.ApiUrl('admin/siteSkill/rowReorder'),

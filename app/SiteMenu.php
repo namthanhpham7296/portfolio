@@ -2,6 +2,7 @@
 
 namespace App;
 
+use Google\Service\AdMob\App;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;
 
@@ -12,10 +13,6 @@ class SiteMenu extends Model
    protected $primaryKey = 'id';
    protected $guarded = [];
    public $incrementing = false;
-
-   public function childMenu(){
-       return $this->hasMany('App\SiteMenu', 'id');
-   }
 
     public static function boot()
     {

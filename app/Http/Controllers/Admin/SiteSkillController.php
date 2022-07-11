@@ -120,7 +120,7 @@ class SiteSkillController extends BaseController
         $arrSequences   = isset($data['seqs']) ? (array)json_decode($data['seqs'], true) : [];
 
         foreach ($arrSequences as $item) {
-            $menu = SiteResume::where('id', $item['id'])->first();
+            $menu = SiteSkill::where('id', $item['id'])->first();
             if (empty($menu)) {
                 return response()->json([
                     'error' => __('Menu not found').'.',

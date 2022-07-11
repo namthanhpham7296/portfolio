@@ -89,7 +89,7 @@ $(document).ready(function(){
                 'new_seq': diff[i].newData
             });
         }
-        postOrder(postData);
+        postOrderMenu(postData);
     });
 
     $(document).on('click', '.btn-add', function(e){
@@ -236,7 +236,7 @@ function saveData(){
     })
 }
 
-function postOrder(postData) {
+function postOrderMenu(postData) {
     $.loadingStart();
     ajax({
         url: APP.ApiUrl('admin/siteMenu/rowReorder'),

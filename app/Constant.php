@@ -20,7 +20,7 @@ class Constant
     const STATUS_INACTIVE = 0;
     const STATUS_ACTIVE = 1;
     const LIVE_MODE = 0;
-    const START_MODE = 1;
+    const START_MODE = 0;
     const CACHE_VARIABLE = 1;
 
     const MAX_FILE_UPLOAD = 1024;
